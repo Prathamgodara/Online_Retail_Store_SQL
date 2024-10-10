@@ -7,9 +7,9 @@ This SQL project consists of a series of queries designed to analyze and retriev
 ## Part 2
 **1.** In this SQL project implements a change logging mechanism using triggers to monitor and record operations (INSERT, UPDATE, DELETE) performed on key tables in an e-commerce database. By creating a dedicated ChangeLog table, the project ensures that every modification to critical tables (like Products and Customers) is captured for auditing and tracking purposes.
  
-**2** AND SQL project focuses on optimizing data retrieval in an e-commerce database by implementing a series of indexes across multiple tables
+**2.** AND SQL project focuses on optimizing data retrieval in an e-commerce database by implementing a series of indexes across multiple tables
 
-**3** This SQL project outlines the implementation of Role-Based Access Control (RBAC) in an SQL Server environment to enhance security and manage user permissions effectively. 
+**3.** This SQL project outlines the implementation of Role-Based Access Control (RBAC) in an SQL Server environment to enhance security and manage user permissions effectively. 
 
 ![OnlineRetailDB Schema](https://github.com/user-attachments/assets/e7e213f4-b0fc-4095-8be9-29d9d80b36d1)
 
